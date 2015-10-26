@@ -242,7 +242,7 @@ function main(){
 
 
 
-	// console.log(dateOfBirth);
+	console.log(dateOfBirth);
 	// var initials = copy({}, arrs[1]);
 	// var commonInformation = copy({},arrs[2]);
 

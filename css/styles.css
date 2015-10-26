@@ -11,7 +11,7 @@
 	background-color: #519473;
 	border: none;
 	border-radius: 3px;
-	box-shadow: 0 3px 1px #36634d;
+	box-shadow: 2px 2px 1px #36634d;
 	color: white;
 	display: block;
 	font-family: 'Lobster', 'Tahoma', 'Times New Roman';
@@ -24,13 +24,13 @@
 
 .solve-button:hover{
 	cursor: pointer;
-	box-shadow: 0 6px 1px #36634d;
+	box-shadow: 4px 4px 1px #36634d;
 }
 
 .solve-button:active{
 	outline: none;
 	cursor: pointer;
-	box-shadow: 0 2px 1px #36634d;
+	box-shadow: 2px 2px 1px #36634d;
 }
 
 .solve-button:focus{
